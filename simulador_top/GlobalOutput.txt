@@ -1,0 +1,1260 @@
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
+p2.4.h
+Ruta: 0 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+1 -- 13 -- 20 -- 
+Ruta: 1 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+12 -- 4 -- 6 -- 20 -- 
+Ruta: 2 Coste ruta: 0.000000
+        Profit ruta: 0.000000
+11 -- 8 -- 20 -- 
+Coste total Solution: 0.000000 
+Profit total Solution: 0.000000 
+
+
