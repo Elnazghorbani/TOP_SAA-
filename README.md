@@ -1,0 +1,1 @@
+This repository contains Python code implementing the Sample Average Approximation (SAA) method to solve the Stochastic Team Orienteering Problem (STOP). STOP is a variant of the Vehicle Routing Problem, where the objective is to maximize the total reward by strategically picking up passengers.
